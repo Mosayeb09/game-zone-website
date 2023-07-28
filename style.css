@@ -129,6 +129,10 @@
     background: #4ec5f7;
     margin-left: 1rem;
     padding: 1.3rem 2.9rem;
+    border-radius: 48px;
+    font-size: 20px;
+    border: none;
+    color: #FFF;
   }
   .banner-more-Btn:hover {
     background-color: #8ec9e2;
